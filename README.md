@@ -2,7 +2,7 @@ Certainly! Here's the README.md file for the TensorFlow version of the Feedforwa
 
 ---
 
-# Feedforward Neural Network (FNN) in TensorFlow
+# Feedforward Neural Network (FNN) in Pytorch
 
 This repository contains a simple implementation of a Feedforward Neural Network (FNN) using TensorFlow. The FNN is trained to perform binary classification tasks.
 
@@ -13,7 +13,7 @@ The FNN architecture consists of an input layer, a hidden layer, and an output l
 ## Requirements
 
 - Python 3
-- TensorFlow
+- Pytorch
 
 ## Usage
 
@@ -21,7 +21,7 @@ To use the FNN, follow these steps:
 
 1. Install the required dependencies:
    ```bash
-   pip install tensorflow
+   pip install pytorch
    ```
 
 2. Clone this repository:
