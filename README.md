@@ -1,10 +1,10 @@
-Below is a sample README.md file for your GitHub repository containing the code for the Feedforward Neural Network (FNN) implemented in PyTorch:
+Certainly! Here's the README.md file for the TensorFlow version of the Feedforward Neural Network (FNN):
 
 ---
 
-# Feedforward Neural Network (FNN) in PyTorch
+# Feedforward Neural Network (FNN) in TensorFlow
 
-This repository contains a simple implementation of a Feedforward Neural Network (FNN) using PyTorch. The FNN is trained to perform binary classification tasks.
+This repository contains a simple implementation of a Feedforward Neural Network (FNN) using TensorFlow. The FNN is trained to perform binary classification tasks.
 
 ## Overview
 
@@ -13,7 +13,7 @@ The FNN architecture consists of an input layer, a hidden layer, and an output l
 ## Requirements
 
 - Python 3
-- PyTorch
+- TensorFlow
 
 ## Usage
 
@@ -21,13 +21,13 @@ To use the FNN, follow these steps:
 
 1. Install the required dependencies:
    ```bash
-   pip install torch
+   pip install tensorflow
    ```
 
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/fnn-pytorch.git
-   cd fnn-pytorch
+   git clone https://github.com/your_username/fnn-tensorflow.git
+   cd fnn-tensorflow
    ```
 
 3. Run the example script:
@@ -45,7 +45,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- This implementation is inspired by educational resources on neural networks and PyTorch.
+- This implementation is inspired by educational resources on neural networks and TensorFlow.
 
 ---
 
